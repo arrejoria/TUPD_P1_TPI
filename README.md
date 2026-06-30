@@ -138,7 +138,7 @@ un módulo específico del programa:
 
 | Recurso | Estado / Lugar |
 |---------|----------------|
-| Repositorio público | https://github.com/arrejoria/utn-tupad-p1 |
+| Repositorio público | https://github.com/arrejoria/TUPD_P1_TPI |
 | Informe PDF | `TPI_Programacion1_Grupo_402.pdf` (en la raíz) |
 | Video demostración | https://youtu.be/A0TJYbzzZ2o |
 | Archivo ZIP | `TPI_Programacion1_Individual.zip`
